@@ -28,7 +28,7 @@ Setup:
 Clone the repository and set up the environment:
 
 # Clone the repository
-git clone https://github.com/vedant-rekulwad/AmpliPi.git
+git clone https://github.com/rvedant5/AmpliPi.git
 
 # Navigate into the project directory
 cd amplipi
